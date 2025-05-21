@@ -5,7 +5,7 @@ This is a machine learning-based web app that classifies SMS messages as **Spam*
 Demo of the Project
 
 ![SpamDetection Screenshot](https://github.com/BhartiGangwar/SMS-Spam-Classifier-/blob/main/Sms_Spam_Demo.png?raw=true) <!-- Optional: Replace with your own screenshot -->
-![Screenshot](images/screenshot.png)
+![HamDetection](https://github.com/BhartiGangwar/SMS-Spam-Classifier-/blob/main/Sms_Ham_Demo.png?raw=true)
 
 
 
