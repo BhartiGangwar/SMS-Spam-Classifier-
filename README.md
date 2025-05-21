@@ -25,17 +25,18 @@ Spam messages are a common nuisance. The goal of this project is to automaticall
 ## 📁 Project Structure
 
 SMS-Spam-Classifier/
+
 ├── app.py # Streamlit app
+
 ├── spam.csv # Dataset
+
 ├── model.pkl # Trained ML model
+
 ├── vectorizer.pkl # TF-IDF vectorizer
+
 └── README.md # Project documentation
 
-yaml
-Copy
-Edit
 
----
 
 ## 🧠 Features
 
