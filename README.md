@@ -2,16 +2,14 @@
 
 This is a machine learning-based web app that classifies SMS messages as **Spam** or **Not Spam** using Natural Language Processing (NLP) techniques. The model is built using `scikit-learn` and deployed with `Streamlit` for real-time spam detection.
 
+## 🔍 Problem Statement
+
+Spam messages are a common nuisance. The goal of this project is to automatically classify whether an incoming message is spam or not using NLP and machine learning techniques.
+
 Demo of the Project
 
 ![SpamDetection Screenshot](https://github.com/BhartiGangwar/SMS-Spam-Classifier-/blob/main/Sms_Spam_Demo.png?raw=true) <!-- Optional: Replace with your own screenshot -->
 ![HamDetection](https://github.com/BhartiGangwar/SMS-Spam-Classifier-/blob/main/Sms_Ham_Demo.png?raw=true)
-
-
-
-## 🔍 Problem Statement
-
-Spam messages are a common nuisance. The goal of this project is to automatically classify whether an incoming message is spam or not using NLP and machine learning techniques.
 
 ---
 
