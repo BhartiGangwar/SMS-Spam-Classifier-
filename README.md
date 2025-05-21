@@ -3,7 +3,7 @@
 
 This is a machine learning-based web app that classifies SMS messages as **Spam** or **Not Spam** using Natural Language Processing (NLP) techniques. The model is built using `scikit-learn` and deployed with `Streamlit` for real-time spam detection.
 
-![App Screenshot](screenshot.png) <!-- Optional: Replace with your own screenshot -->
+![SpamDetection Screenshot](https://github.com/BhartiGangwar/SMS-Spam-Classifier-/blob/main/Sms_Spam_Demo.png?raw=true) <!-- Optional: Replace with your own screenshot -->
 
 ---
 
